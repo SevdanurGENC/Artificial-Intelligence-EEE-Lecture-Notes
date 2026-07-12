@@ -5,9 +5,13 @@ BAUN Department of Electrical and Electronic Engineering: Artificial Intelligenc
 Hafta 1   —   Yapay Zekaya Giriş
 Hafta 2   —   Makine Öğrenmesi
 Hafta 3   —   Regresyon
+
 Hafta 4   —   Sınıflandırma
+
 Hafta 5   —   Kümeleme
+
 Hafta 6   —   Bulanık Mantık
+
 Hafta 7   —   Yapay Sinir Ağları
 Hafta 8   —   Ara Değerlendirme ve Proje Fikri Sunumu
 Hafta 9   —   Derin Öğrenme
