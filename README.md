@@ -2,9 +2,9 @@
 BAUN Department of Electrical and Electronic Engineering: Artificial Intelligence Lecture Notes
 
 ## Haftalık Ders İçeriği
-— Hafta 1   —   Yapay Zekaya Giriş
-— Hafta 2   —   Makine Öğrenmesi
-— Hafta 3   —   Regresyon
+—— Hafta 1   —   Yapay Zekaya Giriş
+—— Hafta 2   —   Makine Öğrenmesi
+—— Hafta 3   —   Regresyon
 — Hafta 4   —   Sınıflandırma
 — Hafta 5   —   Kümeleme
 — Hafta 6   —   Bulanık Mantık
